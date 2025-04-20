@@ -11,8 +11,8 @@ This website enables users to calculate the day of the week they were born, and 
 ## How to Use
 
 The project is live and accessible via:
-- [GitHub Pages](#)  
-- [Vercel](#)  
+- [GitHub Pages](https://github.com/FaustinMulinge)  
+- [Vercel](vercel.com/faustinmulinge)  
 
 (Replace `#` with actual links if you want)
 
